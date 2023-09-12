@@ -61,6 +61,7 @@ body {
 }
 .row > button:last-child{
   background: rgb(210, 165, 31);
+  /* background: #d8c99f; */
 }
 .row > button:last-child:hover{
   background: rgba(243, 178, 28, 0.783);
@@ -79,4 +80,5 @@ body {
   justify-content: flex-end;
   font-size: 4rem;
   padding:.5rem;
+  overflow-x: scroll;
 }
